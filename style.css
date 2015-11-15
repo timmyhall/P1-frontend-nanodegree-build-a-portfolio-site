@@ -1,0 +1,48 @@
+body {
+    font-family: "Lato", sans-serif;
+    color: #747704;
+    font-weight: 300;
+}
+
+h2 {
+    color: #bcbbbb;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+.col-sm-4 {
+    text-align: center;
+}
+
+.col-xs-6 {
+    text-transform: uppercase;
+}
+
+.title-logo {
+    margin-top: 20px;
+}
+
+.title-super {
+    font-size: 40px;
+    font-weight: 100;
+    text-align: right;
+}
+
+.title-sub {
+    text-align: right;
+}
+
+nav {
+    margin-top: 25px;
+}
+
+@media screen and (max-width: 550px) {
+    .title-super {
+        font-size: 30px;
+    }
+}
+
+
+
